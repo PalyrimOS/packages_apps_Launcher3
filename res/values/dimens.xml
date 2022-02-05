@@ -401,6 +401,8 @@
     <dimen name="split_placeholder_icon_size">44dp</dimen>
     <dimen name="task_menu_width_grid">216dp</dimen>
 
+    <!-- Overview scrolling scale animation -->
+    <dimen name="overview_scroll_scale">0.9</dimen>
 
     <!-- Workspace grid visualization parameters -->
     <dimen name="grid_visualization_rounding_radius">28dp</dimen>
