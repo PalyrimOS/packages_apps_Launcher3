@@ -95,4 +95,6 @@
     
     <!-- Appseat -->
     <color name="appseat_color">#50181c1f</color>
+
+    <color name="gicon_mask">#14000000</color>
 </resources>
